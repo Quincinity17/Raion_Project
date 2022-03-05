@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RaionApp</string>
+    <string name="lowongan_kerja"><b>Lowongan Kerja</b></string>
+    <string name="Lowongan_kerja_content">Brief Singkat tentang fitur lowongan kerja</string>
+    <string name="find_shelter"><b>Find Shelter</b></string>
+    <string name="transkripsi">transkripsi</string>
 </resources>
