@@ -4,11 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/RAION/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.327" />
+        <entry key="..\:/RAION/app/src/main/res/drawable/switch_trcks.xml" value="0.2675" />
+        <entry key="..\:/RAION/app/src/main/res/drawable/switch_tumbs.xml" value="0.2675" />
         <entry key="..\:/RAION/app/src/main/res/layout/activity_home.xml" value="0.4" />
-        <entry key="..\:/RAION/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/RAION/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/RAION/app/src/main/res/layout/activity_login2.xml" value="0.264" />
         <entry key="..\:/RAION/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/RAION/app/src/main/res/layout/activity_register.xml" value="0.3072916666666667" />
-        <entry key="..\:/RAION/app/src/main/res/layout/activity_splash_screen.xml" value="0.3625" />
+        <entry key="..\:/RAION/app/src/main/res/layout/activity_regoster.xml" value="0.3625" />
+        <entry key="..\:/RAION/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
         <entry key="..\:/RAION/app/src/main/res/layout/cards_home_list.xml" value="0.3072916666666667" />
       </map>
     </option>
